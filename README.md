@@ -5,7 +5,7 @@
 > 🎓 Expected Graduation: 2029
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Santhosh%20Kumar&fontAlign=50&fontAlignY=38&color=0:0072ff,100:00c6ff&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Santhosh%20Kumar%20V&fontAlign=50&fontAlignY=38&color=0:0072ff,100:00c6ff&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 <p align="center">
   <a href="https://github.com/santhoshkumar-ias">GitHub</a> •
   <a href="https://www.linkedin.com/in/santhosh-kumar-v-5b3056380/">LinkedIn</a> •
-  <a href="https://portfolio-lemon-alpha-59.vercel.app/">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://santhoshofficial.vercel.app/">Portfolio</a> •
+  <a href="mailto:santhoshkumarv36173@gmail.com">Email</a>
 </p>
 
 ---
